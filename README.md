@@ -25,17 +25,64 @@ I am a Ph.D. candidate at **Huazhong University of Science and Technology**, adv
 
 Before my doctoral research, I worked on wearable-sensor-based monitoring for Parkinson's symptom fluctuations, combining signal processing and deep learning for clinical motion assessment.
 
-```yaml
-name: Fu Hu / 伏虎
-role: Ph.D. Candidate
-affiliation: Huazhong University of Science and Technology
-research:
-  - Multi-Agent Reinforcement Learning
-  - Knowledge Routing and Parameter Sharing
-  - Contrastive Representation Learning
-  - Robot and UAV Simulation
-contact: fuhu@hust.edu.cn
-```
+## Profile Snapshot
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Role-Ph.D._Candidate-22c55e?style=for-the-badge" alt="Role" />
+      <br />
+      <strong>Fu Hu / 伏虎</strong>
+      <br />
+      <sub>Intelligent Science and Technology</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Affiliation-HUST-3b82f6?style=for-the-badge" alt="Affiliation" />
+      <br />
+      <strong>Huazhong University of Science and Technology</strong>
+      <br />
+      <sub>Wuhan, China</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Contact-fuhu%40hust.edu.cn-0ea5e9?style=for-the-badge" alt="Contact" />
+      <br />
+      <strong>Open to academic collaboration</strong>
+      <br />
+      <sub>MARL · Simulation · Embodied AI</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Multi-Agent Reinforcement Learning</strong>
+      <br />
+      <sub>Cooperative policy learning, credit assignment, and agent specialization.</sub>
+    </td>
+    <td align="center">
+      <strong>Knowledge Routing and Parameter Sharing</strong>
+      <br />
+      <sub>Reducing destructive interference while sharing useful decision knowledge.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Contrastive Representation Learning</strong>
+      <br />
+      <sub>Disentangling local observations into cleaner attribute-aware features.</sub>
+    </td>
+    <td align="center">
+      <strong>Robot and UAV Simulation</strong>
+      <br />
+      <sub>Unity, ROS, Isaac Sim, OpenCV, and sim-to-real research workflows.</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## Research Highlights
 
