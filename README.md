@@ -21,77 +21,29 @@
 
 ## About Me
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Fu_Hu-%E4%BC%8F%E8%99%8E-22c55e?style=flat-square" alt="Fu Hu" />
+  <img src="https://img.shields.io/badge/Role-Ph.D._Candidate-3b82f6?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Affiliation-HUST-f59e0b?style=flat-square" alt="HUST" />
+  <img src="https://img.shields.io/badge/Email-fuhu%40hust.edu.cn-0ea5e9?style=flat-square" alt="Email" />
+</p>
+
 I am a Ph.D. candidate at **Huazhong University of Science and Technology**, advised by **Prof. Yihua Tan**. My research focuses on **multi-agent reinforcement learning**, especially knowledge routing, parameter sharing, representation disentanglement, and quality-diversity learning for cooperative decision-making.
 
-Before my doctoral research, I worked on wearable-sensor-based monitoring for Parkinson's symptom fluctuations, combining signal processing and deep learning for clinical motion assessment.
+- **Current focus:** cooperative MARL, knowledge routing, parameter sharing, and representation learning.
+- **System experience:** Unity, ROS, NVIDIA Isaac Sim, OpenCV, UAV simulation, and sim-to-real workflows.
+- **Previous work:** wearable-sensor-based monitoring for Parkinson's symptom fluctuations with signal processing and deep learning.
+- **Contact:** [fuhu@hust.edu.cn](mailto:fuhu@hust.edu.cn)
 
-## Profile Snapshot
+## Research Keywords
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Role-Ph.D._Candidate-22c55e?style=for-the-badge" alt="Role" />
-      <br />
-      <strong>Fu Hu / 伏虎</strong>
-      <br />
-      <sub>Intelligent Science and Technology</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Affiliation-HUST-3b82f6?style=for-the-badge" alt="Affiliation" />
-      <br />
-      <strong>Huazhong University of Science and Technology</strong>
-      <br />
-      <sub>Wuhan, China</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Contact-fuhu%40hust.edu.cn-0ea5e9?style=for-the-badge" alt="Contact" />
-      <br />
-      <strong>Open to academic collaboration</strong>
-      <br />
-      <sub>MARL · Simulation · Embodied AI</sub>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>Multi-Agent Reinforcement Learning</strong>
-      <br />
-      <sub>Cooperative policy learning, credit assignment, and agent specialization.</sub>
-    </td>
-    <td align="center">
-      <strong>Knowledge Routing and Parameter Sharing</strong>
-      <br />
-      <sub>Reducing destructive interference while sharing useful decision knowledge.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Contrastive Representation Learning</strong>
-      <br />
-      <sub>Disentangling local observations into cleaner attribute-aware features.</sub>
-    </td>
-    <td align="center">
-      <strong>Robot and UAV Simulation</strong>
-      <br />
-      <sub>Unity, ROS, Isaac Sim, OpenCV, and sim-to-real research workflows.</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-## Research Highlights
-
-| Area | What I care about |
-| --- | --- |
-| Multi-Agent RL | Cooperative policy learning, credit assignment, agent specialization |
-| Representation Learning | Attribute disentanglement, contrastive objectives, low-noise features |
-| Knowledge Sharing | Efficient parameter sharing, routing useful knowledge, reducing conflict |
-| Simulation Systems | Unity, ROS, Isaac Sim, UAV platforms, sim-to-real workflows |
+<p align="center">
+  <img src="https://img.shields.io/badge/Cooperative_Policy_Learning-0f766e?style=for-the-badge" alt="Cooperative Policy Learning" />
+  <img src="https://img.shields.io/badge/Credit_Assignment-2563eb?style=for-the-badge" alt="Credit Assignment" />
+  <img src="https://img.shields.io/badge/Knowledge_Routing-7c3aed?style=for-the-badge" alt="Knowledge Routing" />
+  <img src="https://img.shields.io/badge/Contrastive_Representation-f97316?style=for-the-badge" alt="Contrastive Representation" />
+  <img src="https://img.shields.io/badge/Robot_Simulation-16a34a?style=for-the-badge" alt="Robot Simulation" />
+</p>
 
 ## Selected Publications
 
