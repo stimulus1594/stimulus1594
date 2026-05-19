@@ -58,20 +58,20 @@
 <details>
   <summary><strong>Selected publications</strong></summary>
 
+- **HPS: Hyperspherical Parameter Sharing for Efficient Multi-Agent Reinforcement Learning**  
+  *ICML*, CCF A, First Author
+
+- **Quality-Diversity for Multi-Agent Reinforcement Learning**  
+  *AAMAS*, CCF B
+
 - **Tailoring knowledge for empowered cooperative actions in multi-agent reinforcement learning**  
   *Neural Networks*, CCF B, First Author
 
 - **ACM: Multiple Attributes Contrastive Mechanism for Value Decomposition in Multi-Agent Reinforcement Learning**  
   *ICASSP*, CCF B, First Author
 
-- **SC2: Boosting Cooperation with Shared-Combinatorial and Complementary Representation in Multi-Agent Reinforcement Learning**  
-  Submitted to *IEEE Transactions on Neural Networks and Learning Systems*, First Author
-
-- **HPS: Hyperspherical Parameter Sharing for Efficient Multi-Agent Reinforcement Learning**  
-  Submitted to *ICML*, First Author
-
-- **Quality-Diversity for Multi-Agent Reinforcement Learning**  
-  *AAMAS*, CCF B
+- **A Seasonal-Trend-Decomposition-Based Voltage-Source-Inverter Open-Circuit Fault Diagnosis Method**  
+  *IEEE Transactions on Power Electronics*, CAS Q1 Top
 
 </details>
 
