@@ -4,7 +4,7 @@
     <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fstimulus1594&labelColor=%2337d67a&countColor=%23697689&style=flat" />
   </a>
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/stimulus1594">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/stimulus1594">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/stimulus1594?label=Followers&style=flat-square&cacheSeconds=60">
 </h1>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=stimulus1594&show_icons=true&icon_color=22c55e&text_color=718096&bg_color=ffffff&hide_title=true" />
@@ -60,7 +60,7 @@
 
 <p align="right">
   <a href="https://github.com/stimulus1594" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/stimulus1594" /></a>
-  <a href="https://github.com/stimulus1594" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/stimulus1594" /></a>
+  <a href="https://github.com/stimulus1594?tab=followers" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/stimulus1594?label=Followers&style=flat-square&cacheSeconds=60" /></a>
   <a href="https://github.com/stimulus1594" target="_blank" rel="noreferrer"><img src="https://badges.strrl.dev/repos/stimulus1594" /></a>
   <a href="https://github.com/stimulus1594" target="_blank" rel="noreferrer"><img src="https://badges.strrl.dev/visits/stimulus1594/stimulus1594" /></a>
 </p>
