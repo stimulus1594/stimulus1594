@@ -40,7 +40,7 @@
   <a href="https://www.ros.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="40" height="40" /></a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40" /></a>
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/240/anaconda--v2.png" alt="anaconda" width="40" height="40" /></a>
-  <a href="https://www.nvidia.com/en-us/omniverse/apps/isaac-sim/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nvidia/nvidia-original.svg" alt="nvidia" width="40" height="40" /></a>
+  <a href="https://www.nvidia.com/en-us/omniverse/apps/isaac-sim/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nvidia/76B900" alt="nvidia" width="40" height="40" /></a>
 </p>
 
 # 📑 Papers
