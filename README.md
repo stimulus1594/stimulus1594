@@ -34,10 +34,11 @@
 
 # 📑 Papers
 
-* **[ICML]** HPS: Hyperspherical Parameter Sharing for Efficient Multi-Agent Reinforcement Learning. **CCF A**
-* **[AAMAS]** Quality-Diversity for Multi-Agent Reinforcement Learning. **CCF B**
-* **[Neural Networks]** Tailoring knowledge for empowered cooperative actions in multi-agent reinforcement learning. **CCF B**
-* **[ICASSP]** ACM: Multiple Attributes Contrastive Mechanism for Value Decomposition in Multi-Agent Reinforcement Learning. **CCF B**
+* **[ICML 2026]** HPS: Hyperspherical Parameter Sharing for Efficient Multi-Agent Reinforcement Learning.
+* **[NeurIPS 2026]** TrustFlow: Adaptive Trust Calibration for Language Model Guided Reinforcement Learning.
+* **[AAMAS 2026]** Quality-Diversity for Multi-Agent Reinforcement Learning.
+* **[Neural Networks]** Tailoring knowledge for empowered cooperative actions in multi-agent reinforcement learning.
+* **[ICASSP 2026]** ACM: Multiple Attributes Contrastive Mechanism for Value Decomposition in Multi-Agent Reinforcement Learning.
 * **[IEEE TPEL]** A Seasonal-Trend-Decomposition-Based Voltage-Source-Inverter Open-Circuit Fault Diagnosis Method. **CAS Q1 Top**
 
 # ⭐ Research Projects
